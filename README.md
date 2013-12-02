@@ -1,4 +1,4 @@
 ggmon
 =====
 
-project nga gg-hon ni alex
+Demo repo for tribu-wayuk guys
